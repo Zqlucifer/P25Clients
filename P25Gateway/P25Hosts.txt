@@ -424,7 +424,7 @@
 10405	125.91.17.122	42020
 
 # 10406 Zhejiang province, bridged to DMR TG 46055
-10406	p25.zj.digital	41000
+10406	8.210.168.117	41000
 
 # 10407 Shanghai City, China,bridged to DMR TG 46021
 10407	p25021.dyndns.org	41000
